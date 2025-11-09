@@ -27,32 +27,6 @@
     
   
     
-  
-    
-  
-    
-      <url>
-            <loc>/docs/version-2/upgrade/</loc>
-            <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="ja"
-              href="/ja/docs/version-2/upgrade/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="zh-hans"
-              href="/zh-hans/docs/version-2/upgrade/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="/docs/version-2/upgrade/"
-              />
-          </url>
-    
-  
-    
       <url>
             <loc>/</loc>
             <lastmod>2025-05-04T00:00:00+00:00</lastmod>
@@ -80,6 +54,32 @@
               rel="alternate"
               hreflang="en"
               href="/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>/docs/version-2/upgrade/</loc>
+            <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/ja/docs/version-2/upgrade/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/zh-hans/docs/version-2/upgrade/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/docs/version-2/upgrade/"
               />
           </url>
     
